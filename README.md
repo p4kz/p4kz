@@ -1,4 +1,3 @@
-# Eric Mendonça
 
 <p align="left">
   <a href="wolpak@hotmail.com">
