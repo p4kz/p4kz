@@ -13,3 +13,7 @@
 <a href="https://github.com/p4kz/alur4-geek" target="_blank"> 
 <img src="https://i.imgur.com/kxxSuEx.png" width="100px">
 </a>
+
+<a href="https://github.com/p4kz/money-converter" target="_blank"> 
+<img src="https://i.imgur.com/Iq1eeMy.png" width="100px">
+</a>
