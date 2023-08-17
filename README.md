@@ -17,3 +17,7 @@
 <a href="https://github.com/p4kz/money-converter" target="_blank"> 
 <img src="https://i.imgur.com/Iq1eeMy.png" width="100px">
 </a>
+
+-  React.js, Next.js, NextAuth.js, UX, API REST,  Node.js and mySQL. 
+
+-  My current learning - Socket.io and dev.twitch doc
