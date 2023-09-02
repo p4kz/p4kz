@@ -1,23 +1,17 @@
-<a href="https://github.com/p4kz/a-deco" target="_blank"> 
-<img src="https://i.imgur.com/LVI3goy.png" width="100px">
-</a>
+### Minhas principais stacks de desenvolvimento são:
 
-<a href="https://github.com/p4kz/four-k" target="_blank"> 
-<img src="https://i.imgur.com/GKDsDgn.png" width="100px">
-</a>
+`TypeScript/JavaScript, HTML, CSS, React.js e Next.js.`
 
-<a href="https://github.com/p4kz/almost-secret-project" target="_blank"> 
-<img src="https://i.imgur.com/tRpO0ip.png" width="100px">
-</a>
+### Procuro sempre utilizar bibliotecas modernas e dinâmicas de estilização como:
 
-<a href="https://github.com/p4kz/alur4-geek" target="_blank"> 
-<img src="https://i.imgur.com/kxxSuEx.png" width="100px">
-</a>
+`Styled-Components, Stitches, SASS e TailwindCSS.`
 
-<a href="https://github.com/p4kz/money-converter" target="_blank"> 
-<img src="https://i.imgur.com/Iq1eeMy.png" width="100px">
-</a>
+### Meus programas favoritos que fazem tudo isso se concretizar!
 
--  React.js, Next.js, NextAuth.js, UX, API REST,  Node.js and mySQL. 
+`Visual Studio Code, Figma, Photoshop, CorelDraw, Ilustrator e Notion.`
 
--  My current learning - Socket.io and dev.twitch doc
+### O que eu estudo atualmente:
+
+`socket.io e a documentação da twitch para implementar novas funcionalidades na 99diff.com`
+
+<hr/>
